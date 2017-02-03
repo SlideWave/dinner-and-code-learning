@@ -93,6 +93,11 @@ This program has several components you must include:
 ### Code Example:
 
 ~~~ python
+# python 2: delete 'from builtins import input'
+
+# python 2: use raw_input('') instead of input('')
+# e.g. roll_again = raw_input("Ready to roll? ENTER=Roll. Q=Quit. ")
+
 from builtins import input
 import random
 
@@ -158,8 +163,8 @@ See: http://anh.cs.luc.edu/python/hands-on/3.1/handsonHtml/madlib2.html
 
 ~~~ python
 # python 2: remove 'from builtins import input'
-
 from builtins import input
+
 print("Welcome to Mad Libs - Python Edition. Follow the prompts to create your own hilarious story.")
 
 # python 2: use raw_input('') instead of input('')
