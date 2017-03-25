@@ -131,7 +131,7 @@ window.addEventListener('DOMContentLoaded', function () {
 
 Difficulty Level: Beginner
 
-Language: Javascript/JQuery
+Language: Javascript/jQuery
 
 ## Description:
 Tip calculator for wait staff. This project will teach you basics in creating functions and using variables.
