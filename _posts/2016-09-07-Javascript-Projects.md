@@ -131,7 +131,7 @@ window.addEventListener('DOMContentLoaded', function () {
 
 Difficulty Level: Beginner
 
-Language: Javascript
+Language: Javascript/JQuery
 
 ## Description:
 Tip calculator for wait staff. This project will teach you basics in creating functions and using variables.
@@ -139,6 +139,7 @@ Tip calculator for wait staff. This project will teach you basics in creating fu
 ## The Steps
 
 - You will need three text files for this game, one for the HTML, one for CSS, and one for the actual Javascript. If using [jsfiddle](http://jsfiddle.net), three boxes are available to enter in.
+- You will also need to include [JQuery](https://jquery.com) for this project. In [jsfiddle](http://jsfiddle.net) under External Resources, enter https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js under JavaScript/CSS URI and click the + icon.
 
 ### HTML:
 
