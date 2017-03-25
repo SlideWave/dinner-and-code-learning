@@ -12,6 +12,7 @@ javascript development. On this page are the Javascript projects.
 <ol>
 <li>Project 1: Dice Rolling Game</li>
 <li>Project 2: Tip Calculator</li>
+<li>Project 3: Maze Generator</li>
 </ol>
 
 <em>All of the projects are listed on this page. Keep scrolling to see more.</em>
